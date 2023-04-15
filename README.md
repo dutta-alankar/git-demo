@@ -1,2 +1,3 @@
 # git-demo
-Just a demo
+
+Demonstrating git practices
