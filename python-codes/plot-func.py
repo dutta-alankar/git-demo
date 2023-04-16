@@ -1,5 +1,5 @@
 import numpy as np
-import matplotlib.pylab as plt
+import matplotlib.pyplot as plt
 
 x = np.linspace(-30, 30, 200)
 eps = 1e-5
